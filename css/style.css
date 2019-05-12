@@ -159,7 +159,7 @@ a:hover {
     min-width: 315px;
     margin-right: 2px;
 }
-.box-four {
+.middle-section .box:last-child {
     margin-right: 0;
 }
 .footer-section {
