@@ -25,9 +25,9 @@ a:hover {
 }
 .hero-section nav {
     width: 980px;
-    margin: 110px 10% 50px 10%;
+    margin: 110px auto 50px auto;
     height: 36px;
-    display: inline-table;
+    display: block;
     border-radius: 5px;
     background: 
         -webkit-gradient(linear, 0 0, 0 100%, 
@@ -129,6 +129,9 @@ a:hover {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+.spacer {
+    margin: 0;
 }
 .your-verse-header {
     height: 100px;
