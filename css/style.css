@@ -174,11 +174,6 @@ a:hover {
 .footer-section ul {
     list-style-type: none;
     list-style-position: outside;
-    margin-block-start: 0;
-    margin-block-end: 0;
-    margin-inline-start: 0;
-    margin-inline-end: 0;
-    padding-inline-start: 40px;
     margin-top: -4px;
 }
 .footer-section li {
