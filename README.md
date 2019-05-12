@@ -1,6 +1,7 @@
-# The old apple.com website from 2014
-This is a design of the old apple.com website from 2014.
+# The old apple.com website
+This is a design of the old apple.com website.
 
-See it live <a href="#" target="_blank">here</a> (link coming soon).
+See it live <a href="https://raw.githack.com/ibrolive/old-apple/develop/index.html" target="_blank">here</a>.
 
-## Developed by <a href="https://github.com/ibrolive" target="_blank">Ibrahim Dauda</a>
+## Developed by:
+<a href="https://github.com/ibrolive" target="_blank">Ibrahim Dauda</a>
